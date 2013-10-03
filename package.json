@@ -1,0 +1,16 @@
+{
+  "name": "dotnotater",
+  "version": "0.0.1",
+  "description": "Given a dotnotation and an object it returns the portion of the object specifed by the dotnotation",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -R spec ./test/dotnotater_spec"
+  },
+  "repository": "git@github.com:CommandAlkon/dotnotater.git",
+  "author": "Keith McCanless",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "~1.13.0",
+    "chai": "~1.7.2"
+  }
+}
