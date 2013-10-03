@@ -2,7 +2,7 @@
   "name": "dotnotater",
   "version": "0.0.3",
   "description": "Given a dotnotation and an object it returns the portion of the object specifed by the dotnotation",
-  "keywords" : ['dotnotation', 'parse','syntax','object','array'],
+  "keywords" : ["dotnotation", "parse","syntax","object","array"],
   "main": "index.js",
   "scripts": {
     "test": "mocha -R spec ./test/dotnotater_spec"
